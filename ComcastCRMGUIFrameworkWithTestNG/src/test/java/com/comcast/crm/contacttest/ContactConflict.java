@@ -4,9 +4,9 @@ import org.testng.annotations.Test;
 
 public class ContactConflict {
 	@Test
-	public void contactTest()
+	public void test()
 	{
-		System.out.println("created new class in contacts module");
+		
 	}
 
 }
