@@ -6,7 +6,7 @@ public class ContactConflict {
 	@Test
 	public void test()
 	{
-		
+		System.out.println("removed and added");
 	}
 
 }
