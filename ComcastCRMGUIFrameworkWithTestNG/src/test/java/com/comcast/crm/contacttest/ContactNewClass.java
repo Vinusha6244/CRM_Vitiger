@@ -13,6 +13,6 @@ public class ContactNewClass {
 	public void newMethod() {
 		
 	}
-	
+
 
 }
